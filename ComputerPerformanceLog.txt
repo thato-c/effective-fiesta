@@ -1,0 +1,56 @@
+Good Afternoon! Here's your afternoon data
+
+Date and Time: 2024-03-08 13:30:24.583135
+CPU usage: 0.0%
+Memory Usage: 59.4%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:30:34.590058
+CPU usage: 0.1%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:30:44.597102
+CPU usage: 0.9%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:30:54.604976
+CPU usage: 0.0%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:31:04.610761
+CPU usage: 1.8%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:31:14.618324
+CPU usage: 0.0%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:31:24.627024
+CPU usage: 0.0%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:31:34.633377
+CPU usage: 0.1%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:31:44.638051
+CPU usage: 0.5%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 13:31:54.646539
+CPU usage: 0.1%
+Memory Usage: 59.5%
+Disk Usage: 27.1%
+--------------------------------
+CPU Average: 0.35%
+Memory Average: 59.49%
+Disk Average: 27.10%
+--------------------------------
