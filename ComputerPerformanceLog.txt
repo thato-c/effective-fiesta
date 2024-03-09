@@ -1,50 +1,56 @@
-Date and Time: 2024-03-08 23:20:54.568604
+Good Evening! Here's your evening data
+
+Date and Time: 2024-03-08 23:44:07.366761
 CPU usage: 0.2%
-Memory Usage: 61.2%
+Memory Usage: 57.3%
 Disk Usage: 27.1%
 --------------------------------
-Date and Time: 2024-03-08 23:21:04.571719
+Date and Time: 2024-03-08 23:44:17.374512
+CPU usage: 0.1%
+Memory Usage: 57.3%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 23:44:27.387307
+CPU usage: 5.5%
+Memory Usage: 57.3%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 23:44:37.400680
+CPU usage: 0.3%
+Memory Usage: 57.3%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 23:44:47.403490
+CPU usage: 5.2%
+Memory Usage: 57.2%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 23:44:57.420254
+CPU usage: 0.9%
+Memory Usage: 57.3%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 23:45:07.431656
+CPU usage: 0.1%
+Memory Usage: 57.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 23:45:17.442126
+CPU usage: 0.0%
+Memory Usage: 57.5%
+Disk Usage: 27.1%
+--------------------------------
+Date and Time: 2024-03-08 23:45:27.448373
 CPU usage: 0.4%
-Memory Usage: 61.3%
+Memory Usage: 57.5%
 Disk Usage: 27.1%
 --------------------------------
-Date and Time: 2024-03-08 23:21:14.581401
-CPU usage: 0.2%
-Memory Usage: 61.2%
+Date and Time: 2024-03-08 23:45:37.457341
+CPU usage: 0.0%
+Memory Usage: 57.5%
 Disk Usage: 27.1%
 --------------------------------
-Date and Time: 2024-03-08 23:21:24.597171
-CPU usage: 0.1%
-Memory Usage: 60.8%
-Disk Usage: 27.1%
---------------------------------
-Date and Time: 2024-03-08 23:21:34.609052
-CPU usage: 0.1%
-Memory Usage: 60.8%
-Disk Usage: 27.1%
---------------------------------
-Date and Time: 2024-03-08 23:21:44.611765
-CPU usage: 5.7%
-Memory Usage: 60.8%
-Disk Usage: 27.1%
---------------------------------
-Date and Time: 2024-03-08 23:21:54.626020
-CPU usage: 0.6%
-Memory Usage: 60.8%
-Disk Usage: 27.1%
---------------------------------
-Date and Time: 2024-03-08 23:22:04.637519
-CPU usage: 0.6%
-Memory Usage: 60.8%
-Disk Usage: 27.1%
---------------------------------
-Date and Time: 2024-03-08 23:22:14.640861
-CPU usage: 0.5%
-Memory Usage: 60.8%
-Disk Usage: 27.1%
---------------------------------
-Date and Time: 2024-03-08 23:22:24.650703
-CPU usage: 0.1%
-Memory Usage: 60.8%
-Disk Usage: 27.1%
+CPU Average: 1.27%
+Memory Average: 57.37%
+Disk Average: 27.10%
 --------------------------------

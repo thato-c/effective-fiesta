@@ -12,12 +12,25 @@ def monitor_performance(interval):
 
     #print("Printing Time of day")
 
-    with open("C:/Users/tchit/OneDrive/effective-fiesta/ComputerPerformanceLog.txt", "r+") as file:
-        file.truncate(0)
-        if current_time.hour < 12:
-            file.write("Good Morning! Here's your morning data\n\n")
-        elif current_time.hour > 12 and current_time.hour < 18:
-            file.write("Good Afternoon! Here's your afternoon data\n\n")
+    try:
+        with open("C:/Users/tchit/OneDrive/effective-fiesta/ComputerPerformanceLog.txt", "r+") as file:
+            file.truncate(0)
+            if current_time.hour < 12:
+                file.write("Good Morning! Here's your morning data\n\n")
+            elif current_time.hour > 12 and current_time.hour < 18:
+                file.write("Good Afternoon! Here's your afternoon data\n\n")
+            else:
+                file.write("Good Evening! Here's your evening data\n\n")
+    except FileNotFoundError:
+        print("File not found")
+    except IOError:
+        print("Error reading the file")
+    except Exception as e:
+        print("An error occurred: ", str(e))
+    else:
+        print("File read successfully")
+    finally:
+        print("End of file handling process")
 
     while loop_no > 0:
         # Get CPU usage
@@ -67,11 +80,22 @@ def monitor_performance(interval):
 
     # Print performance metrics
     #print("Printing averages")
-    with open("ComputerPerformanceLog.txt", "a") as file:
-        file.write(f"CPU Average: {cpu_average}%\n")
-        file.write(f"Memory Average: {memory_average}%\n")
-        file.write(f"Disk Average: {disk_average}%\n")
-        file.write("--------------------------------\n")
+    try:
+        with open("C:/Users/tchit/OneDrive/effective-fiesta/ComputerPerformanceLog.txt", "a") as file:
+            file.write(f"CPU Average: {cpu_average}%\n")
+            file.write(f"Memory Average: {memory_average}%\n")
+            file.write(f"Disk Average: {disk_average}%\n")
+            file.write("--------------------------------\n")
+    except FileNotFoundError:
+        print("File not found")
+    except IOError:
+        print("Error reading the file")
+    except Exception as e:
+        print("An error occurred: ", str(e))
+    else:
+        print("File read successfully")
+    finally:
+        print("End of file handling process")
 
 # Specify the monitoring interval in seconds
 monitor_interval = 5
